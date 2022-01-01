@@ -1,7 +1,7 @@
 ### Hi I am Shreyansh 👋
 - 🌱 I’m currently learning Data Science
 - 📫 How to find me :-
-- :office: [Email](shreyanshgupta208@gmsil.com)
+- :office: [Email](shreyanshgupta208@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/shrey208/)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrey208)](https://github.com/shrey208ub-readme-stats)
 <!--

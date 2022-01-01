@@ -3,7 +3,7 @@
 - 📫 How to find me :-
 - :office: [Email](shreyanshgupta208@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/shrey208/)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrey208)](https://github.com/shrey208ub-readme-stats)
+- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 <!--
 **Shrey208/Shrey208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,8 +1,8 @@
 ### Hi I am Shreyansh 👋
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me: shreyanshgupta208@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/shrey208/)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrey208)](https://github.com/shrey208ub-readme-stats)
-- [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
 <!--
 **Shrey208/Shrey208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

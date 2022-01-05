@@ -10,14 +10,14 @@ I am a data scientist. I love programming, reading and watching anime.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/Shrey208/Shrey208/blob/main/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Shrey208/Shrey208/blob/main/coding.gif?raw=true" width="350" height="280" />
 
 ### Talking about Personal Stuffs :
 
-- 👨🏻‍💻 I love to work on Projects related to Data Science and ML
-- 🚀 I’m currently learning DSA on [HackerRank](https://www.hackerrank.com/Shrey208?hr_r=1)
-- 💬 Ask me about anything, I am happy to help
+- 👨🏻‍💻 I love to work on Projects related to Data Science and Machine Learning
+- 🚀 I’m currently learning Data Structures and Algorithms on [HackerRank](https://www.hackerrank.com/Shrey208?hr_r=1)
 - 📫 How to reach me : shreyanshgupta208@gmail.com
+- 💬 Ask me about anything, I am happy to help
 - 📝 Here's my [Resume](https://drive.google.com/file/d/1nnRHqeBEmDYqLcokwzE7AHWHOnvr4Ugu/view)
 
 ### Some Tools I Use :

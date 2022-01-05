@@ -20,13 +20,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 📫 How to reach me : shreyanshgupta208@gmail.com
 - 📝 Here's my [Resume](https://drive.google.com/file/d/1nnRHqeBEmDYqLcokwzE7AHWHOnvr4Ugu/view)
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
 🚀 **Some Tools I Use:**
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
@@ -43,6 +36,6 @@ No Activity tracked this Week
   
 📈 **My GitHub Stats:**
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey208&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=prussian"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey208&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=prussian"/>
     <img height="120em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=Shrey208&hide_border=true&theme=prussian"/>  
 </p>

@@ -4,7 +4,7 @@
 [![WhatsApp Badge](	https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/917800161571?text=Hi%20Shreyansh,%20I%20saw%20you%20on%20GitHub%20and%20wanted%20to%20contact%20you.)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Shrey208)
 
-### Glad to see you here! &nbsp;![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shrey208.visitor-badge)
+### Glad to see you here ! &nbsp;![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shrey208.visitor-badge)
 
 I am a data scientist. I love programming, reading and watching anime.
 
@@ -32,7 +32,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
- </p>
+</p>
  
 <!--- 📈 **My GitHub Stats:**
 <p>

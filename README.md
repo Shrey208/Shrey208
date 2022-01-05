@@ -12,7 +12,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <img align="right" alt="GIF" src="https://github.com/Shrey208/Shrey208/blob/main/coding.gif?raw=true" width="408" height="318" />
 
-**Talking about Personal Stuffs:**
+### Talking about Personal Stuffs :
 
 - 👨🏻‍💻 I love to work on Projects related to Data Science and ML
 - 🚀 I’m currently learning DSA on [HackerRank](https://www.hackerrank.com/Shrey208?hr_r=1)
@@ -20,7 +20,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 📫 How to reach me : shreyanshgupta208@gmail.com
 - 📝 Here's my [Resume](https://drive.google.com/file/d/1nnRHqeBEmDYqLcokwzE7AHWHOnvr4Ugu/view)
 
-🚀 **Some Tools I Use:**
+### Some Tools I Use :
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="25" height="25" />

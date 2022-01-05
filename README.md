@@ -6,8 +6,41 @@
 
 ### Glad to see you here! &nbsp;![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shrey208.visitor-badge)
 
-I am a data scientist. I love programming, reading and watching anime
+I am a data scientist. I love programming, reading and watching anime.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 <img align="right" alt="GIF" src="https://github.com/Shrey208/Shrey208/blob/main/coding.gif?raw=true" width="408" height="318" />
+
+**Talking about Personal Stuffs:**
+
+- 👨🏻‍💻 I love to work on Projects related to Data Science and ML
+- 🚀 I’m currently learning DSA on [HackerRank](https://www.hackerrank.com/Shrey208?hr_r=1)
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me : shreyanshgupta208@gmail.com
+- 📝 Here's my [Resume](https://drive.google.com/file/d/1nnRHqeBEmDYqLcokwzE7AHWHOnvr4Ugu/view)
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
+
+🚀 **Some Tools I Use:**
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="25" height="25" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
+  
+📈 **My GitHub Stats:**
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey208&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=prussian"/>
+</p>

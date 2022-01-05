@@ -33,9 +33,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
  </p> 
-  <br> <br>
+ 
 📈 **My GitHub Stats:**
 <p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey208&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=prussian"/>
     <img height="120em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=Shrey208&hide_border=true&theme=prussian"/>  
 </p>

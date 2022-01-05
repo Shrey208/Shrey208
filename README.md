@@ -14,11 +14,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 ### Talking about Personal Stuffs :
 
-- 👨🏻‍💻 I love to work on Projects related to Data Science and Machine Learning
-- 🚀 I’m currently learning Data Structures and Algorithms on [HackerRank](https://www.hackerrank.com/Shrey208?hr_r=1)
 - 📫 How to reach me : shreyanshgupta208@gmail.com
 - 💬 Ask me about anything, I am happy to help
-- 📝 Here's my [Resume](https://drive.google.com/file/d/1nnRHqeBEmDYqLcokwzE7AHWHOnvr4Ugu/view)
+- 🚀 I’m currently learning DSA on [HackerRank](https://www.hackerrank.com/Shrey208?hr_r=1)
+- 👨🏻‍💻 I love to work on Data Science Projects
+- 📝 Want to hire me ? Here's my [Resume](https://drive.google.com/file/d/1nnRHqeBEmDYqLcokwzE7AHWHOnvr4Ugu/view)
 
 ### Some Tools I Use :
 <p align="left">

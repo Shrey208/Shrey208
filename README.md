@@ -35,6 +35,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 </p>
  
 <img align= "right" height="210em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=Shrey208&langs_count=8&hide_border=true&theme=prussian"/>
+
 ### My Coding Stats : 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey208&langs_count=8&hide_border=true&layout=compact&theme=prussian"/>

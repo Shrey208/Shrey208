@@ -36,6 +36,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
  
 ### My GitHub Stats :
 <p align="left">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey208&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=prussian"/>
-  <img height="215em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=Shrey208&hide_border=true&theme=prussian"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey208&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=prussian"/>
+  <img height="210em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=Shrey208&hide_border=true&theme=prussian"/> 
 </p>

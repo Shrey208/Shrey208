@@ -34,8 +34,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
 </p>
  
-<img align= "right" height="219em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=Shrey208&langs_count=8&theme=prussian"/>
+<img align= "right" height="219em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=Shrey208&hide_border=true&langs_count=8&theme=prussian"/>
 
 ### My Coding Stats : 
 
-<img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey208&langs_count=8&layout=compact&theme=prussian"/>
+<img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey20&hide_border=true8&langs_count=8&layout=compact&theme=prussian"/>

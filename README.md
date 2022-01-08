@@ -38,4 +38,4 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 ### My Coding Stats : 
 
-<img height="172.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey208&langs_count=8&layout=compact&theme=prussian"/>
+<img height="172.4em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey208&langs_count=8&layout=compact&theme=prussian"/>

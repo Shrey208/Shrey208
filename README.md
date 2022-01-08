@@ -10,7 +10,7 @@ I am a data scientist. I love programming, reading and watching anime.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align= "right" alt="GIF" style="border:10px outset silver" src="https://github.com/Shrey208/Shrey208/blob/main/coding.gif?raw=true" width="440" height="250"/>
+<img align= "right" alt="GIF" src="https://github.com/Shrey208/Shrey208/blob/main/coding.gif?raw=true" width="440" height="250"/>
 
 ### Talking about Personal Stuffs :
 

@@ -12,7 +12,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <img align= "right" alt="GIF" src="https://github.com/Shrey208/Shrey208/blob/main/coding.gif?raw=true" width="440" height="250"/>
 
-### Talking about Personal Stuffs :
+### Talking about Personal Stuff :
 
 - 📫 How to reach me : shreyanshgupta208@gmail.com
 - 💬 Ask me about anything, I am happy to help
